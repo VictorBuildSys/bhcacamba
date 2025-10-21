@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Epilogue';
+    src: url('fonts/Epilogue-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Epilogue';
+    src: url('fonts/Epilogue-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ProductSans';
+    src: url('fonts/ProductSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

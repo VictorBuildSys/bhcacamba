@@ -1,0 +1,51 @@
+/*------------Declarando variáveis raíz*/
+
+:root {
+    /* Cores Principais (dark)*/
+    --cor-1: #FFC300;
+    --cor-2: #0b48b1;
+    --cor-3: #627b9a;
+    
+    --cor-1-hover: #FFD293;
+    --cor-2-hover: #556f9d;
+    --cor-3-hover: #d2ddea;
+
+    --cor-1-active: #AB7120;
+    --cor-2-active: #002e7f;
+    --cor-3-active: #46586F;
+
+    --txt-color: #f7f7f7;
+    --bg-color: #000814;
+    --cor-cinza: #BBB;
+
+    --cor-erro-texto: #BB3615;
+    --cor-sucesso-texto: #15bb9a;
+    --cor-erro-fundo: #ffbeaf;
+    --cor-sucesso-fundo: #afffeb;
+
+    /* Gaps */
+    --gap-xxs: 8px;
+    --gap-xs: 16px;
+    --gap-s: 24px;
+    --gap-m: 32px;
+    --gap-l: 48px;
+    --gap-xl: 64px;
+    --gap-xxl: 80px;
+    --button-width: 320px;
+    --gap-sessions: 96px;
+
+
+    /* border-radius */
+    --border-radius:1rem;
+
+    /* hover transitions */
+    --hover-opacity: 0.7;
+    --hover-transition: all 0.2s ease-out;
+    --hover-transform: translateY(-8px);
+
+    /* shadow and border */
+    --standard-shadow: rgba(255, 255, 255, 0.5) 0px 10px 100px -100px;
+    --standard-border: linear-gradient(90deg, rgba(0,8,20,0) 0%, rgba(0,8,20,0) 15%, var(--cor-3) 50%, rgba(0,8,20,0) 85%, rgba(0,8,20,0) 100%) 1;
+    --standard-border-vertical: linear-gradient(45deg, rgba(255,255,255,0) 0%, var(--cor-secundaria) 50%, rgba(255,255,255,0) 100%) 1;
+    --bg-texture: url('../images/bg_dark.webp');
+}
