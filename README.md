@@ -1,86 +1,73 @@
-<<<<<<< HEAD
+# Welcome to your Lovable project
 
-# app
+## Project info
 
-## IDE recomendada
+**URL**: https://lovable.dev/projects/d5ead980-a0ff-48a9-8b5e-bb298bd40fe9
 
-```sh
-Visual Code
-```
+## How can I edit this code?
 
-## To Run:
+There are several ways of editing your application.
 
-```sh
-1. `git clone https://github.com/biulddll/puc.git`
-2. `cd puc`
-3. `npm install`
-4. `npm run build`
-5. `npm start`
-6. [http://localhost:3000](http://localhost:3000)
+**Use Lovable**
 
-```
+Simply visit the [Lovable Project](https://lovable.dev/projects/d5ead980-a0ff-48a9-8b5e-bb298bd40fe9) and start prompting.
 
-## API Teste Mock Vercel
+Changes made via Lovable will be committed automatically to this repo.
 
-```sh
-https://json-server-vercel-liart.vercel.app/usuario
-```
+**Use your preferred IDE**
 
-## Vercel Referencias
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+
+Follow these steps:
 
 ```sh
-link
-https://www.youtube.com/watch?v=A--aYRbzKdU
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-Fork Git Vercel
-https://github.com/biulddll/json-server-vercel
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
 ```
 
-=======
-https://app.netlify.com
+**Edit a file directly in GitHub**
 
-https://suaobra.netlify.app
-https://legalizacaodeobras.com.br
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
-https://suaobraregular.com.br
+**Use GitHub Codespaces**
 
-Site:
-https://bemcontadores.com.br/?gad_source=1&gclid=Cj0KCQiA0MG5BhD1ARIsAEcZtwTwrfu4RbDrtcF7tLAiwqorP3Fadtfk-0ZkvlAaU9gjDYbCre0_Q9IaAg5mEALw_wcB
-https://lp.inssdeobra.com.br/?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1gNEG1os_9hPj7YGQrjGB6YsZzyo8tgJdOl5iOFCaB2kJiB9BCUkpUaArldEALw_wcB
-https://joengenharia.com/inss-de-obras/?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hm7N3wMi-gkcGWeb0iwhDMQ8W-IyCDvCdD6JhW8qa7jpjnis-rHQYaAqFBEALw_wcB
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-simonecalisto@gmail.com
-legalizacaodeobras.com.br
+## What technologies are used for this project?
 
-buildsysdev@gmail.com
-https://builder.hostinger.com/Yg2WvnD4alU1M2bZ
+This project is built with:
 
-## 31 9 9607-1087
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-Top
-https://accountaxcont.com.br/
-https://accountaxcont.com.br/reducao-de-inss-de-obra
-https://suaobraregular.com.br
+## How can I deploy this project?
 
-https://github.com/AsmrProg-YT
-https://assessoriafm.com.br/
+Simply open [Lovable](https://lovable.dev/projects/d5ead980-a0ff-48a9-8b5e-bb298bd40fe9) and click on Share -> Publish.
 
-<p>A <strong>Sua Obra Regular</strong> é especializada na <strong>regularização de INSS de obra</strong>, oferecendo soluções precisas e seguras para que você cumpra todas as normas legais com tranquilidade. Nossa equipe cuida de cada detalhe do processo, garantindo que a documentação esteja sempre em conformidade com a legislação vigente.</p>
+## Can I connect a custom domain to my Lovable project?
 
-```
+Yes, you can!
 
-firebase Hosting
-npm install -g firebase-tools
-firebase init
-firebase deploy
-https://suaobra-69ecf.web.app/
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-https://suaobra-69ecf.web.app/https://suaobra-69ecf.web.app/
-```
-
-file:///C:/Users/david/Downloads/Youtube-code-master/Youtube-code-master/web%20components/Swiper-Slider-3D-Coverflow/index.html
-
-## Slide scroll
-
-- https://swiperjs.com/get-started
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
